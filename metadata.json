@@ -1,0 +1,7 @@
+{
+  "name": " Life OS Autonomous Agent",
+  "description": "An autonomous operations agent built on Gemini 3 Pro that plans, reasons, and executes complex personal and business goals through long-term memory and self-correction loops.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
