@@ -323,7 +323,7 @@ This project is open source and available under the MIT License.
 
 <div align="center">
 
-**Built with ❤️ for the Gemini 3 Hackathon 2025**
+**Built with ❤️ for the Gemini 3 Hackathon 2026**
 
 *Empowering autonomous productivity through AI*
 
