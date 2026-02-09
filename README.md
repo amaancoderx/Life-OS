@@ -11,7 +11,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Vite](https://img.shields.io/badge/Vite-6.2-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
 
-[View in AI Studio](https://ai.studio/apps/drive/1298ZMOP-D1oWfQwnN4Ddnnp2O9qDBcY-) • [Demo](#-features) • [Documentation](#-documentation)
+[View in AI Studio](https://ai.studio/apps/drive/126vLMNotixOUWYHyFMBAC1AVGl3iL11_?fullscreenApplet=true) • [Demo](#-features) • [Documentation](#-documentation)
 
 </div>
 
